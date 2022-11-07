@@ -1,0 +1,214 @@
+#intro
+{
+  text-align: center;
+  background-color: #d8adeb;
+  /* background-color: #FBC5C5; */
+  /* background-color: #8758FF; */
+  padding-bottom: 20px;
+}
+
+.selfimg{
+
+  height: 350px;
+  padding: 30px;
+
+}
+
+.contain
+{
+
+  width: 900px;
+  margin: 20px auto 20px;
+
+}
+
+.row1
+{
+
+}
+
+.col1
+{
+  text-align: left;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+
+.name
+{
+  font-size: 50px;
+}
+
+.navinfo
+{
+  padding: 0% 5% 0%;
+}
+
+.btn
+{
+  padding-top: 50px;
+}
+
+.intropara
+{
+  font-size: 20px;
+}
+
+.introh2
+{
+padding-bottom: 20px;
+}
+.namedetails
+{
+  font-family: 'Dancing Script', cursive;
+  color: #1C6758;
+  font-size: 65px;
+}
+
+.btn1
+{
+  display: inline;
+}
+
+.navbar-brand
+{
+  color: black;
+}
+
+h1
+{
+  font-weight: bolder;
+  /* padding: 15px 0px 15px; */
+}
+
+#education{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  background-color: #ADD8E6
+}
+
+.row2
+{
+  padding: 30px 70px 30px;
+}
+
+#skills
+{
+  text-align: center;
+  background-color: #d8adeb;
+  padding-top: 20px;
+}
+
+.skillimg
+{
+  height: 150px;
+  padding: 30px;
+}
+
+.row2
+{
+  padding: 20px 300px 20px;
+}
+
+#interests
+{
+  text-align: center;
+  background-color: #ADD8E6;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.hobbyimg
+{
+  height: 250px;
+  padding: 20px 0px 20px;
+}
+
+#contactme
+{
+  text-align: center;
+  background-color: #d8adeb;
+  padding: 40px;
+
+}
+
+.contactimg
+{
+  height: 50px;
+  float: left;
+}
+
+.contactdiv1
+{
+  padding: 20px 300px 20px 550px;
+  text-align: center;
+}
+
+.cont
+{
+padding-bottom: 20px;
+font-size: 65px;
+}
+
+.contactdiv
+{
+  padding: 20px 550px 20px;
+  text-align: center;
+}
+
+#certificates
+{
+  text-align: center;
+  background-color: #d8adeb;
+  padding: 40px;
+}
+
+.courseimg
+{
+  height: 100px;
+  float: left;
+}
+
+.coursename
+{
+  padding: 30px 400px 30px;
+  text-align: center;
+}
+
+#projects
+{
+  text-align: center;
+  background-color: #ADD8E6;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.col2
+{
+  background-color: #F8C4B4;
+  padding: 20px;
+}
+
+.col3
+{
+  background-color: #FF8FB1;
+  padding: 20px;
+}
+
+.col4
+{
+  background-color: #FFFAD7;
+  padding: 20px;
+}
+
+.row4
+{
+  padding: 20px 300px 20px;
+}
+
+.names
+{
+  font-size: 65px;
+  padding: 20px 0px 20px 0px;
+}
